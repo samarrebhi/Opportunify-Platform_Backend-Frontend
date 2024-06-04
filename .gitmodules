@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/samarrebhi/Opportunify_FrontEnd.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/samarrebhi/Opportunify_BackEnd.git
